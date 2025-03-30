@@ -1,0 +1,29 @@
+# Python 3.10.12
+# Generated with `pip freeze`
+pip==22.0.2
+setuptools==59.6.0
+wheel
+numpy==1.24.3
+pandas==2.2.3
+plotly==6.0.0
+streamlit==1.43.2
+extra-streamlit-components==0.1.71
+asana==5.1.0
+pydantic==2.10.6
+streamlit-extras==0.6.0
+streamlit-card==1.0.2
+hydralit-components==1.0.10
+llama-index-core==0.12.24.post1
+llama-index-llms-openai==0.3.25
+llama-index-embeddings-openai==0.3.1
+llama-index-agent-openai==0.4.6
+llama-index-program-openai==0.3.1
+openai==1.66.3
+python-dateutil==2.9.0.post0
+pytz==2025.1
+tiktoken==0.9.0
+tenacity==9.0.0
+tqdm==4.67.1
+typing_extensions==4.12.2
+typing-inspect==0.9.0
+dataclasses-json==0.6.7
